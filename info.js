@@ -82,7 +82,7 @@
         }
       };
        
-
+//методы 
     function getItem(){
         return items;
     }
