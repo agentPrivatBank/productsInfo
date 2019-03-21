@@ -15,7 +15,7 @@
         ],
         "const": {
         	"limit_max": "50000 грн.",
-        	"deposit": "7%"
+        	"deposit": "10%"
         },
         "info_ua": {
         	"opportunities": {
