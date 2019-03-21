@@ -1,6 +1,6 @@
 (function (G, U){
     "use strict";
-	//version 0.0.3 new wersion
+	//version 0.0.3 new wersion to master
     var items = [];
     
     items[1] = {
