@@ -1,5 +1,6 @@
 (function (G, U){
     "use strict";
+	//version 0.0.2
     var items = [];
     
     items[1] = {
@@ -15,7 +16,7 @@
         ],
         "const": {
         	"limit_max": "50000 грн.",
-        	"deposit": "10%"
+        	"deposit": "7 %"
         },
         "info_ua": {
         	"opportunities": {
@@ -54,7 +55,7 @@
         ],
         "const": {
         	"limit_max": "75000 грн.",
-        	"deposit": "10%"
+        	"deposit": "7 %"
         },
         "info_ua": {
         	"opportunities": {
@@ -82,7 +83,7 @@
         }
       };
        
-//методы 
+
     function getItem(){
         return items;
     }
