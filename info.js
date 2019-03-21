@@ -82,46 +82,6 @@
         }
       };
       
-    items[41] = {
-      	"name_ru": "Apple Pay",
-        "name_ua": "Apple Pay",
-        "url_ua": "https://privatbank.ua/cpa/apple",
-        "url_ru": "https://privatbank.ua/ru/cpa/apple",
-        "description_ru": "",
-        "description_ua": "Сплачуйте одним дотиком. Усі картки в телефоні.",
-        "img_urls": [
-										"https://privatbank.ua/uploads/media/default/0001/06/0f2f8a48c0e0ef0db44992ca44a0025bc35cb03c.jpeg",
-                    "https://agent.privatbank.ua/image/2-1/41.png"
-        ],
-        "const": {
-        	"limit_max": "",
-        	"deposit": ""
-        },
-        "info_ua": {
-        	"setup": {
-          	"head": "Як налаштувати Apple Pay?",
-            "steps": [
-              "Оновіть Privat24 та додайте картку до Wallet.",
-              "Виберіть пристрій — iPhone чи Apple Watch",
-              "Круто, все працює!",
-              "На головному екрані поруч з карткою з’явиться Apple Pay."
-          	]
-          },
-          "bonus": "Apple Pay наразі:  П'яти хвилин вистачить, щоб все налаштувати. Без відділень, дзвінків, пластику. /n/nЗ Apple Pay ви зберігаєте життя маленькій панді. І, можливо, рятуєте косяк добрих сардин."
-        },
-        "info_ru": {
-        	"setup": {
-          	"head": "Как настроить Apple Pay?",
-            "steps": [
-              "Обновите Privat24 и добавьте карту в Wallet.",
-              "Выберите устройство — iPhone или Apple Watch.",
-              "Круто, все работает!",
-              "На главном экране рядом с картой появится"
-          	]
-          },
-          "bonus": "Apple Pay уже сейчас: Пяти минут хватит, чтобы все настроить. Без отделений, звонков, пластика. /n/nС Apple Pay вы сохраняете жизнь маленькой панде. И, может быть, спасаете косяк добрых сардин."
-        }
-      };
 
     function getItem(){
         return items;
