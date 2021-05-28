@@ -11,19 +11,21 @@
         "description_ru": "пластиковая карта, которая дает возможность пользоваться как собственными деньгами на карте, так и кредитными средствами. На эту карту можно получать переводы от родственников, знакомых или партнеров.",
         "description_ua": "пластикова картка, що дає можливість користуватися як власними грошима на картці, так і кредитними коштами. На цю картку можна отримувати перекази від родичів, знайомих або партнерів.",
         "img_urls": [
-										"https://lh6.googleusercontent.com/V40DE7apUg0rRQpMRyf9hD19qwZvfQUFoYfWeCwyJebtdFSWSBcBa3egAau3TlQRC6pTcy0sfxZO_aoeN7thSy3UO6PBG-JCDNjJJ1XtjEC9NpyNrTmeDykrRSsEDIoXPc3E5p7h",
-                    "https://lh6.googleusercontent.com/iYTlFPi3kWiCUihnuozGDjle_9qPn1h8z4HwCLt3m8wrOQnG_iyay7K8IhEuwrzqWxRR_7ye4G2bqWUMeci12dcWHOmcEP7lJCuNFrzhLfihKdryy7R08FwDdlARYyuaQCnOOFRW"
+		"https://d2z9uwnt8eubh7.cloudfront.net/media/default/0001/11/d60249307255d31628d9c580bd7f21fa56982f62.jpeg",
+		"https://d2z9uwnt8eubh7.cloudfront.net/media/default/0001/15/f0ee3424d0c4d42b18599180be44b961b5658b42.jpeg"
+		//"https://lh6.googleusercontent.com/V40DE7apUg0rRQpMRyf9hD19qwZvfQUFoYfWeCwyJebtdFSWSBcBa3egAau3TlQRC6pTcy0sfxZO_aoeN7thSy3UO6PBG-JCDNjJJ1XtjEC9NpyNrTmeDykrRSsEDIoXPc3E5p7h",
+                //"https://lh6.googleusercontent.com/iYTlFPi3kWiCUihnuozGDjle_9qPn1h8z4HwCLt3m8wrOQnG_iyay7K8IhEuwrzqWxRR_7ye4G2bqWUMeci12dcWHOmcEP7lJCuNFrzhLfihKdryy7R08FwDdlARYyuaQCnOOFRW"
         ],
         "const": {
         	"limit_max": "50000 грн.",
-        	"deposit": "7 %"
+        	"deposit": "0"
         },
         "info_ua": {
         	"opportunities": {
           	"Можливості": [
           	"Карткою «Універсальна» можна розраховуватися в торгових точках, Інтернеті та терміналах самообслуговування, а також знімати готівку в будь-якій точці світу.",
             "У разі використання кредитних коштів діє пільговий період до 55 днів.",
-            "Картка «Універсальна» дозволяє зберігати власні гроші, доступ до яких можливий у будь-якій точці світу, і отримувати додатковий дохід у розмірі 7% річних на залишок особистих коштів понад 100 грн."
+            "Картка «Універсальна» дозволяє зберігати власні гроші, доступ до яких можливий у будь-якій точці світу."
           	]
           },
           "bonus": "Пільги та бонуси: Розраховуючись карткою в торгових точках, клієнт не платить додаткових комісій, а зняти особисті кошти через банкомат можна за пільговим тарифом. /n/nРозраховуючись карткою в магазинах – партнерах програми лояльності «Бонус Плюс», власник картки отримує бонуси – до 20% від вартості покупки. Список учасників програми можна подивитися на сайті bonus.pb.ua або в мобільному додатку «Бонус Плюс».",
@@ -50,12 +52,13 @@
         "description_ru": "престижная карта международного класса, которая сочетает в себе лучшие качества платежных банковских карт. Больше привилегий, больше возможностей. Индивидуальный подход к каждому клиенту гарантирован!",
         "description_ua": "престижна картка міжнародного класу, що поєднує в собі найкращі якості платіжних банківських карток. Більше привілеїв, більше можливостей. Індивідуальний підхід до кожного клієнта гарантовано!",
         "img_urls": [
-										"https://privatbank.ua/uploads/media/default/0001/01/dc13e7af968e41d2feee436a45991f44acb2e3d1.png",
-                    "https://privatbank.ua/sites/pb/img/kards/univers-gold.png"
+		//"https://privatbank.ua/uploads/media/default/0001/01/dc13e7af968e41d2feee436a45991f44acb2e3d1.png",
+                //"https://privatbank.ua/sites/pb/img/kards/univers-gold.png"
+		"https://d2z9uwnt8eubh7.cloudfront.net/media/default/0001/14/29cdac922918ccb753c83e95150dd561689acd56.png"
         ],
         "const": {
         	"limit_max": "75000 грн.",
-        	"deposit": "7 %"
+        	"deposit": "0"
         },
         "info_ua": {
         	"opportunities": {
